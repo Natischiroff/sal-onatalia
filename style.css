@@ -18,6 +18,22 @@ body{
     margin: 0px;
     
 }
+
 .titulo2{
     color: blueviolet;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.principal{
+   background-color: pink;
+   padding: 30px;
+   margin: 0px;
+
+}
+
+.beneficios{
+    background-color: palevioletred;
+    padding: 30px;
+    margin: 0px;
+  
+}
