@@ -21,7 +21,7 @@ body{
 }
 
 .titulo2{
-    color: rgb(226, 43, 226);
+    color: rgba(226, 43, 226, 0.61);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
